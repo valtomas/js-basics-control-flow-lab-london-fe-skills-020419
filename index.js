@@ -13,3 +13,10 @@ function scuberGreetingForFeet(valueInFeet) {
   }
   
 }
+
+function ternaryCheckCity(city){
+  
+  
+  
+  
+}
