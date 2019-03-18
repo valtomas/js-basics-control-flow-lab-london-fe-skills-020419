@@ -37,6 +37,6 @@ function switchOnCharmFromTip(tipAmount) {
    return "Thank you."
  }
  else {
-   return 
+   return "Bye."
  }
 }
