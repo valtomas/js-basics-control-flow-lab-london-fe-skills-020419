@@ -34,5 +34,5 @@ function switchOnCharmFromTip(tipAmount) {
  
    
  }
-  
+ else if (tipAmount == "")
 }
