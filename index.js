@@ -25,3 +25,9 @@ function ternaryCheckCity(city){
   }
   
 }
+
+function switchOnCharmFromTip(tipAmount) {
+  
+ if
+  
+}
