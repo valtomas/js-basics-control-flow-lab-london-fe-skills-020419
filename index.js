@@ -24,6 +24,4 @@ function ternaryCheckCity(city){
     return "No go."
   }
   
-  
-  
 }
